@@ -1,10 +1,17 @@
-# onroad
+# onRoad
 
 A new Flutter project.
 
-## Getting Started
+## Contributing Guide:
 
-This project is a starting point for a Flutter application.
+* Fork the repository
+* Clone the repoository
+`git clone https://github.com/<YOUR_USERNAME>/onRoad.git`
+replace <YOUR_USERNAME> with your username
+* run the app `flutter run` 
+
+
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
