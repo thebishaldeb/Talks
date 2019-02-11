@@ -1,4 +1,4 @@
-# onRoad
+# Talks
 
 A new Flutter project.
 
@@ -6,7 +6,7 @@ A new Flutter project.
 
 * Fork the repository
 * Clone the repoository
-`git clone https://github.com/<YOUR_USERNAME>/onRoad.git`
+`git clone https://github.com/<YOUR_USERNAME>/Talks.git`
 replace <YOUR_USERNAME> with your username
 * run the app `flutter run` 
 
