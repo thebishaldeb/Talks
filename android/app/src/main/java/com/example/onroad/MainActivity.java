@@ -1,4 +1,4 @@
-package com.example.onroad;
+package com.example.talks;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
