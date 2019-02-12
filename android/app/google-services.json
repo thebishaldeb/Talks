@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "817700463853",
+    "firebase_url": "https://talks-e43cd.firebaseio.com",
+    "project_id": "talks-e43cd",
+    "storage_bucket": "talks-e43cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817700463853:android:50beaf2b681b98ad",
+        "android_client_info": {
+          "package_name": "com.example.talks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817700463853-7m7thvgiklqeb875tta2tadbp11t27qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talks",
+            "certificate_hash": "db396a0ab2c2acab9c6d24c3a0a82ee6ed8b8fd1"
+          }
+        },
+        {
+          "client_id": "817700463853-lfglffvfv10irh0ptnreg763fk9veajd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXG34ZRlQJQwgzat5vAHpYA8kNj-aASbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817700463853-lfglffvfv10irh0ptnreg763fk9veajd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
